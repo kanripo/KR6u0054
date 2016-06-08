@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 05:55:51.208869
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:04
 #+TITLE: 新菩薩經
 #+PROPERTY: CBETA_ID T85n2917B
 #+PROPERTY: ID KR6u0054
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 85, No. 2917B
 #+PROPERTY: VOL 85
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6u0054_T_000-1462b>¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6u0054_T_001-1462b> ¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.2917B¶
-
- 新菩薩經¶
+No. 2917B¶
+新菩薩經¶
 ¶
 
 率□□□□□□□大小念百萬口。阿彌陀¶
